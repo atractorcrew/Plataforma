@@ -1,0 +1,3 @@
+web\atractor\front\controller\MyController.class
+web\atractor\front\MvcWebConfig.class
+web\atractor\front\MvcWebApplicationInitializer.class
